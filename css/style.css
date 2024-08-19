@@ -610,8 +610,11 @@ div#main-nav {
 ---------------------------------*/
 
 #service {
-    padding: 60px 0px;
-    background: url('../img/slide_dark.png') top left no-repeat !important;
+    background-image: url('../m104.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 60px 0;
 }
 #service h2{
   color: #fff;
